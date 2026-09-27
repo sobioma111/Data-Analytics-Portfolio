@@ -16,6 +16,8 @@ I am developing my career in data analytics by building practical projects that 
 - SQL
 - Power BI
 - Tableau
+- ChatGPT
+- Claude
 - Data Cleaning
 - Data Analysis
 - Data Visualization
