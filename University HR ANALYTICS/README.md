@@ -14,8 +14,19 @@ Microsoft Excel
 Power Query
 Power BI
 ## Data Cleaning
+The dataset was prepared using Power Query in Power BI. The following steps were performed:
 
-The preparation process included text cleaning, data type corrections, error handling, and treatment of missing values. Missing publication values were replaced with zero, while missing areas of specialisation were labelled "unknown".
+- Promoted Headers: Used the first row as column headers.
+- Changed Data Types: Corrected column data types for proper analysis.
+- Trimmed Text: Removed unnecessary spaces from text fields.
+- Cleaned Text: Removed unwanted non-printing characters from text fields.
+- Standardized Text: Improved consistency in text values.
+- Replaced Errors: Handled errors encountered during data preparation.
+- Handled Missing Publication Values: Replaced missing values in the Number of Publications column with 0.
+- Handled Missing Specialization Values: Replaced missing Area of Specialization values with "unknown".
+ ## Data quality note:
+   The dataset contained 880 missing values in the Number of Publications column. Replacing these with zero assumes that missing publication records represent no recorded publications; this assumption should be considered when interpreting the results.
+
 
 ## Limitations
 
