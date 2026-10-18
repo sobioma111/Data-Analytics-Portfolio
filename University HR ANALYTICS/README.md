@@ -4,10 +4,11 @@
 An HR analytics project exploring staff information, qualifications, salary totals, and recorded publications using Power Query and Power BI.
 
 ## Key Performance Indicators
-Total Staff: 2,000
-Number of Departments: 16
-Total Salary: 685.24M
-Recorded Publications: 69,739
+- **Total Staff:** 2,000
+- **Number of Departments:** 16
+- **Total Salary:** 685.24M (unit not specified in the source data)
+- **Recorded Publications:** 69,739
+
 ## Tools Used
 Microsoft Excel
 Power Query
