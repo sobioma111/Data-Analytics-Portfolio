@@ -10,9 +10,9 @@ An HR analytics project exploring staff information, qualifications, salary tota
 - **Recorded Publications:** 69,739
 
 ## Tools Used
-Microsoft Excel
-Power Query
-Power BI
+- Microsoft Excel
+- Power Query
+- Power BI
 ## Data Cleaning
 The dataset was prepared using Power Query in Power BI. The following steps were performed:
 
