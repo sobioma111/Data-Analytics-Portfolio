@@ -33,8 +33,8 @@ The dataset was prepared using Power Query in Power BI. The following steps were
 The dataset was supplied for training and may be simulated. The salary currency and period were not specified. Replacing missing publication values with zero may affect interpretation.
 
 ## Project Deliverables
-Power BI dashboard
-Raw and cleaned datasets
-Data-cleaning documentation
-Project report
-Presentation
+- Power BI dashboard
+- Raw and cleaned datasets
+- Data-cleaning documentation
+- Project report
+- Presentation
