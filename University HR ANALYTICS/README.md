@@ -34,7 +34,7 @@ The dataset was supplied for training and may be simulated. The salary currency 
 
 ## Project Deliverables
 - Power BI dashboard
-- Power BI Files
+- Power BI Files (.pbix)
 - Raw and cleaned datasets
 - Data-cleaning documentation
 - Project report
