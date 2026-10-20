@@ -1,6 +1,8 @@
 # University HR Analytics
 ## Project Overview
+### Dashboard Preview
 
+![University HR Analytics Dashboard](Dashboard%20Images/University%20HR%20analytics%20%282%29.png)
 An HR analytics project exploring staff information, qualifications, salary totals, and recorded publications using Power Query and Power BI.
 
 ## Key Performance Indicators
