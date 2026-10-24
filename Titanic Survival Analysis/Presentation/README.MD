@@ -8,7 +8,7 @@ This presentation showcases an Excel-based analysis of Titanic passenger surviva
 
 * Analyze overall passenger survival outcomes.
 * Compare survival rates across passenger groups.
-* Present key findings through clear, recruiter-friendly visualizations.
+* Present key findings through clear visualizations.
 * Demonstrate data analysis and data storytelling skills using Microsoft Excel.
 
 ## Key Findings
@@ -32,7 +32,7 @@ This presentation showcases an Excel-based analysis of Titanic passenger surviva
 
 ## Presentation File
 
-Open `Titanic_Survival_Analysis_Recruiter_Presentation_Updated.pptx` in Microsoft PowerPoint to view the complete presentation.
+Open `Titanic_Survival_Analysis_Presentation_Updated.pptx` in Microsoft PowerPoint to view the complete presentation.
 
 ## Project Context
 
