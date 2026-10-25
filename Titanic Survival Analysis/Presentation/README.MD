@@ -1,5 +1,7 @@
 # Titanic Survival Analysis — PowerPoint Presentation
+### Presentation Preview
 
+![Titanic Survival Analysis Cover](Titanic_Cover.png)
 ## Project Overview
 
 This presentation showcases an Excel-based analysis of Titanic passenger survival outcomes, comparing survival patterns across gender, passenger class, and age groups.
