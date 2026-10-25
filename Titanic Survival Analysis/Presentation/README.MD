@@ -38,3 +38,8 @@ Open `Titanic_Survival_Analysis_Presentation_Updated.pptx` in Microsoft PowerPoi
 
 This project demonstrates how passenger data can be summarized and communicated through meaningful metrics and visual comparisons. The findings describe patterns in the dataset and do not establish that any single factor caused survival outcomes.
 
+## PowerPoint Presentation
+
+View or download the full presentation:
+
+[Download the Titanic Survival Analysis Presentation](Titanic_Survival_Analysis_Presentation_Updated.pptx)
