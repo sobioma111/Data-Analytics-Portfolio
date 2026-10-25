@@ -1,7 +1,7 @@
 # Titanic Survival Analysis — PowerPoint Presentation
 ### Presentation Preview
 
-![Titanic Survival Analysis Cover](./Titanic_Cover.png)
+![Titanic Survival Analysis Cover](./Titanic_Cover)
 ### Excel Dashboard Preview
 
 ![Titanic Excel Analysis Dashboard](./Titanic_Excel_Dashboard.png.png)
