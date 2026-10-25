@@ -2,6 +2,9 @@
 ### Presentation Preview
 
 ![Titanic Survival Analysis Cover](./Titanic_Cover.png)
+### Excel Dashboard Preview
+
+![Titanic Excel Analysis Dashboard](./Titanic_Excel_Dashboard.png.png)
 ## Project Overview
 
 This presentation showcases an Excel-based analysis of Titanic passenger survival outcomes, comparing survival patterns across gender, passenger class, and age groups.
