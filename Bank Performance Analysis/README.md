@@ -35,15 +35,16 @@ The dashboard includes:
 
 ## Key Performance Indicators
 
-The dashboard reports the following figures for the selected reporting period:
+## Key Performance Indicators
 
-| Metric             |      Value |
-| ------------------ | ---------: |
-| Total Profit       |   ₦162.43M |
-| Total Expenses     |   ₦342.98M |
-| Total Branches     |         50 |
-| Total Loans Issued | ₦1,621.17M |
-| Total Revenue      |   ₦505.41M |
+The dashboard reports the following key figures for the selected reporting period:
+
+* **Total Profit:** ₦162.43M
+* **Total Expenses:** ₦342.98M
+* **Total Branches:** 50
+* **Total Loans Issued:** ₦1,621.17M
+* **Total Revenue:** ₦505.41M
+
 
 ## Project Files
 
