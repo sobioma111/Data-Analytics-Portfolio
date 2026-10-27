@@ -27,17 +27,25 @@ I am developing my career in data analytics by building practical projects that 
 
 ## Featured Projects
 
-#### Nova Gear Sales Analysis
+
+
+### [Nova Gear Sales Analysis](./SQL%20Projects/Nova%20Gear%20Sales/)
+
 An analytics project involving sales data cleaning, SQL analysis, and Power BI dashboard development.
 
-#### Bank Performance Analysis
+### [Bank Performance Analysis](./Bank%20Performance%20Analysis/)
+
 A Power BI dashboard analyzing revenue, loans, expenses, branches, and financial performance.
 
-#### Titanic Survival Analysis
+### [Titanic Survival Analysis](./Titanic%20Survival%20Analysis/)
+
 An exploratory data analysis project examining factors associated with passenger survival.
 
-#### University HR Analytics
+### [University HR Analytics](./University%20HR%20ANALYTICS/)
+
 An HR analytics project examining staff information, qualifications, and compensation.
+
+
 
 # Chemistry & Biology Education
 
