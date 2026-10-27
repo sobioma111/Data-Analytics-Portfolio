@@ -12,6 +12,8 @@ This project analyzes banking performance across 50 branches using Microsoft Pow
 * Identify branches with high revenue and expense ratios.
 * Support data-driven business decisions through interactive visualizations.
 
+
+
 ## Tools Used
 
 * **Microsoft Power BI:** Dashboard development and data visualization.
@@ -20,6 +22,10 @@ This project analyzes banking performance across 50 branches using Microsoft Pow
 
 ## Dashboard Highlights
 
+
+## Dashboard Preview
+
+![Bank Performance Dashboard](Bank_Performance_Dashboard.png)
 The dashboard includes:
 
 * Total Profit
