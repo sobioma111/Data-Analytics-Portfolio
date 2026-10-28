@@ -62,8 +62,9 @@ This repository contains the following project materials:
 
 * **Dashboard Screenshots:** Visual previews of the dashboard and its key insights.
 * **Project Report (Word):** Detailed documentation of the analysis, findings, and recommendations.
-* **Project Report (PDF):** PDF version of the project report.
-* **Project Presentation:** Presentation summarizing the analysis and results.
+  * [Project Report (PDF)](Bank%20Performance%20Analysis-%20Project%20Report.pdf)
+* [Project Presentation](Bank%20Performance%20Analysis.pptx)
+
 * **Methodology and Key Findings:** Documentation of the analytical approach, key findings, and business insights.
 
 ## Author
