@@ -24,7 +24,9 @@ A data analytics project analyzing Nova Gear sales data using SQL and Power BI. 
 ## Project Structure
 
 ### Dashboard
-Contains the Nova Gear Sales dashboard image.
+
+
+![Nova Gear Sales Dashboard](Dashboard/Nova_Gear_sales_Dashboard.png)
 
 ### Datasets
 Contains the raw and SQL-ready datasets used for the analysis.
