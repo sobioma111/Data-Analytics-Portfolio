@@ -39,7 +39,7 @@ The dashboard includes:
 * Top Five Branches by Revenue
 * Interactive month and branch filters
 
-## Key Performance Indicators
+
 
 ## Key Performance Indicators
 
