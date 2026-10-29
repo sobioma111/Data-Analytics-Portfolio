@@ -42,6 +42,6 @@ The dataset was supplied for training and may be simulated. The salary currency 
 
 - [Project Report (Word)](Project%20%20Report/University_HR_Analytics_Project_Report.docx)
 
-* [Project Presentation](Presentations/University_HR_Analytics_Presentation.pptx)
+- [Project Presentation](Presentations/University_HR_Analytics_Presentation.pptx)
 
 
