@@ -38,7 +38,10 @@ The dataset was supplied for training and may be simulated. The salary currency 
 - [Dashboard Preview](Dashboard%20Images/University%20HR%20analytics%20%282%29.png)
 - [Power BI Desktop File (.pbix)](Power%20BI%20Files/UNIVERSITY%20HR%20ANALYTICS.OBIOMA.pbix)
 
-  [Project Report (PDF)](Project%20Report/University_HR_Analytics_Project_Report.pdf)
-  [Project Report (Word)](Project%20Report/University_HR_Analytics_Project_Report.docx)
-  [Project Presentation](Presentations/University_HR_Analytics_Presentation.pptx)
+* [Project Report (PDF)](Project%20Report/University_HR_Analytics_Project_Report.pdf)
+
+* [Project Report (Word)](Project%20Report/University_HR_Analytics_Project_Report.docx)
+
+* [Project Presentation](Presentations/University_HR_Analytics_Presentation.pptx)
+
 
