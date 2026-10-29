@@ -20,7 +20,7 @@ This project analyzes banking performance across 50 branches using Microsoft Pow
 * **Microsoft Excel:** Dataset preparation and cleaning.
 * **GitHub:** Project documentation and version control.
 
-## Dashboard Highlights
+
 
 
 ## Dashboard Preview
