@@ -58,7 +58,7 @@ This repository contains the following project materials:
 
 - **Power BI Dashboard (.pbix):** Interactive dashboard for banking performance analysis.
 - [Download Raw Dataset](Datasets/Raw%20dataset.xlsx)
-- **Cleaned Dataset:** [View Cleaned Dataset](Cleaned%20Dataset/)
+-[View Cleaned Dataset](Datasets/Cleaned%20dataset/Bank%20Performance%20dataset.csv%20cleaned.xlsx)
 - **Dashboard Screenshots:** Visual previews of the dashboard and its key insights.
 - **Project Report (Word):** [Download Project Report (Word)](Bank%20Performance%20Analysis-%20Project%20Report.docx) — Detailed analysis, findings, and recommendations.
 - **Project Report (PDF):** [Download Project Report (PDF)](Bank%20Performance%20Analysis-%20Project%20Report.pdf) — A printable version of the project report.
