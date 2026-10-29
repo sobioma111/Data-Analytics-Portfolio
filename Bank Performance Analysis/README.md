@@ -54,16 +54,30 @@ The dashboard reports the following key figures for the selected reporting perio
 
 ## Project Files
 
-This repository contains the following project materials:
 
-- **Power BI Dashboard (.pbix):** Interactive dashboard for banking performance analysis.
-- [Download Raw Dataset](Datasets/Raw%20dataset.xlsx)
--[View Cleaned Dataset](Datasets/Cleaned%20dataset/Bank%20Performance%20dataset.csv%20cleaned.xlsx)
-- **Dashboard Screenshots:** Visual previews of the dashboard and its key insights.
-- **Project Report (Word):** [Download Project Report (Word)](Bank%20Performance%20Analysis-%20Project%20Report.docx) — Detailed analysis, findings, and recommendations.
-- **Project Report (PDF):** [Download Project Report (PDF)](Bank%20Performance%20Analysis-%20Project%20Report.pdf) — A printable version of the project report.
-- **Project Presentation:** [View Project Presentation](Bank%20Performance%20Analysis.pptx)
-- **Methodology and Key Findings:** Documentation of the analytical approach, key findings, and business insights.
+
+This repository contains the following project materials.
+
+### 1. Dashboard
+
+* **Power BI Dashboard:** Interactive dashboard for banking performance analysis.
+* **Dashboard Screenshots:** Visual previews of the dashboard and its key insights.
+
+### 2. Datasets
+
+* **Raw Dataset:** [Download Raw Dataset](Datasets/Raw%20dataset.xlsx)
+* **Cleaned Dataset:** [View Cleaned Dataset](Datasets/Cleaned%20dataset/Bank%20Performance%20dataset.csv%20cleaned.xlsx)
+
+### 3. Project Documentation
+
+* **Project Report (Word):** [Download Project Report (Word)](Bank%20Performance%20Analysis%20Report.docx)
+* **Project Report (PDF):** [Download Project Report (PDF)](Bank%20Performance%20Analysis%20Report.pdf)
+* **Project Presentation:** [View Project Presentation](Bank%20Performance%20Analysis%20Presentation.pptx)
+
+### 4. Methodology and Key Findings
+
+Documentation of the analytical approach, key findings, and business insights.
+
 ## Author
 
 Sunday Obioma
