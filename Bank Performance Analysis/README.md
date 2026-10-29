@@ -70,9 +70,9 @@ This repository contains the following project materials.
 
 ### 3. Project Documentation
 
-* **Project Report (Word):** [Download Project Report (Word)](Bank%20Performance%20Analysis%20Report.docx)
-* **Project Report (PDF):** [Download Project Report (PDF)](Bank%20Performance%20Analysis%20Report.pdf)
-* **Project Presentation:** [View Project Presentation](Bank%20Performance%20Analysis%20Presentation.pptx)
+* **Project Report (Word):** [Download Project Report (Word)](Bank%20Performance%20Analysis-%20Project%20Report.docx)
+* **Project Report (PDF):** [Download Project Report (PDF)](Bank%20Performance%20Analysis-%20Project%20Report.pdf)
+* **Project Presentation:** [View Project Presentation](Bank%20Performance%20Analysis.pptx)
 
 ### 4. Methodology and Key Findings
 
