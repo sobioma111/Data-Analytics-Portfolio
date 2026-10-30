@@ -29,17 +29,24 @@ A data analytics project analyzing Nova Gear sales data using SQL and Power BI. 
 ![Nova Gear Sales Dashboard](Dashboard/Nova_Gear_sales_Dashboard.png)
 
 ### Datasets
+[View Datasets](Datasets/)
+
 Contains the raw and SQL-ready datasets used for the analysis.
 
 ### Power BI
+[Open Power BI Files](Power%20BI/)
+
 Contains the Power BI dashboard file (.pbix).
 
 ### SQL Queries
+[View SQL Queries](SQL%20Queries/)
+
 Contains the SQL queries used to analyze the Nova Gear sales data.
 
 ### Project Report
-Contains the detailed project report in PDF and Word formats.
+[View Project Report](Project%20Report/)
 
+Contains the detailed project report in PDF and Word formats.
 ## Key Analysis Areas
 
 - Sales performance
