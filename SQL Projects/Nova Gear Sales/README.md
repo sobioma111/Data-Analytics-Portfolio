@@ -34,7 +34,7 @@ A data analytics project analyzing Nova Gear sales data using SQL and Power BI. 
 Contains the raw and SQL-ready datasets used for the analysis.
 
 ### Power BI
-[Open Power BI Files](Power%20BI/)
+[Open Power BI Files](Power%20Bi/)
 
 Contains the Power BI dashboard file (.pbix).
 
