@@ -4,7 +4,8 @@ This folder contains the Power BI dashboard developed for the Nova Gear Sales An
 
 ## Dashboard File
 
-**File:** `Nova Gear Sales.pbix`
+**File:** [Download Nova Gear Sales.pbix](Nova%20Gear%20Sales.pbix)
+
 
 Download the Power BI file to explore the dashboard and its interactive visualizations in Microsoft Power BI Desktop.
 
