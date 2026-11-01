@@ -8,12 +8,11 @@ This project explores passenger survival patterns from the Titanic disaster usin
 
 ## Project Deliverables
 
-- Dashboard preview
-- Excel analysis workbook
-- Dataset
-- Project report
-- Presentation
-
+- [Dashboard Preview](Dashboard/)
+- [Excel Analysis Workbook](Excel%20Workbook/)
+- [Dataset](Datasets/)
+- [Project Report](Project%20Report/)
+- [Presentation](Presentation/)
 - ## Key Findings
 
 * Total passenger records analysed: 1,309.
